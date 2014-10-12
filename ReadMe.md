@@ -1,6 +1,6 @@
-
-chrome ²å¼ş
-¸øyoutube¹ÒÔØµ¯Ä»
+ï»¿
+chrome æ’ä»¶
+ç»™youtubeæŒ‚è½½å¼¹å¹•
 
 TODO: <br/>
 [O]1. Setup basic look on youtube page  <br/>
@@ -10,5 +10,5 @@ TODO: <br/>
 [O]5. put everything together  <br/>
 
 
-![alt tag](/img/demo.JPG?raw=true "demo pic")
+![alt tag](/img/demo.jpg?raw=true "demo pic")
 <hr>
